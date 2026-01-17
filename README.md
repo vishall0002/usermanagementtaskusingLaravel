@@ -33,8 +33,8 @@ A Single Page Application Like User Management System built with **Laravel 12**,
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd usermanagement
+   git clone https://github.com/vishall0002/usermanagementtaskusingLaravel.git
+   cd usermanagementtaskusingLaravel
    ```
 
 2. **Install Dependencies**
